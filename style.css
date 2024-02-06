@@ -1,0 +1,10 @@
+.brand-gradient {
+    background: #2574cf;
+    background: radial-gradient(
+      ellipse farthest-corner at center center,
+      #2574cf 0%,
+      #57cf63 100%
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
