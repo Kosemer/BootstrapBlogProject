@@ -8,3 +8,9 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
+
+  .banner-holder{
+    background-image: url(Image/banner.jpg);
+    background-size: cover;
+    background-position: bottom;
+  }
