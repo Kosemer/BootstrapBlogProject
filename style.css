@@ -9,7 +9,7 @@
     -webkit-text-fill-color: transparent;
   }
 
-  .banner-holder{
+  .banner-holder, .main-page-header {
     background-image: url(Image/banner.jpg);
     background-size: cover;
     background-position: bottom;
